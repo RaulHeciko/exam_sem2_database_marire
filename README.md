@@ -4,4 +4,5 @@ Un complex sportiv funcționează eficient prin organizarea unor componente esen
 
 Entități:complex_sportiv, cladiri, terenuri, piste_alergat, retea_utilitati, info_complex, muzeu, evenimente, evenimente_complex
 
+
 ![Diagram Description](Diagrama.jpg)
